@@ -1,0 +1,2 @@
+-- Business Question 1: How concentrated is our revenue among the top customers?
+-- Amazon, AtliQ Exclusive, AtliQ eStore are the top three customers - as can be seen directly from the report.

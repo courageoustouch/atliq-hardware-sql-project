@@ -1,0 +1,3 @@
+-- How concentrated is our revenue among the top 3 and top 5 customers?
+-- 31.46% revenue comes from top 3 and 37.81% comes from top 5 customers  
+-- can be seen directly from the excel report generated in the main JIRA task
