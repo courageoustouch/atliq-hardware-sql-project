@@ -134,11 +134,14 @@ Where applicable, SQL outputs were cross-validated using **Excel pivot tables an
 
 4. Validation files for deeper checks
 
+---
 
 ✍️ Author
 Rashi Gupta – Data Analyst | SQL | Excel | Power BI | Python
-LinkedIn - https://www.linkedin.com/in/rashigupta111/
+
+---
 
 📢 Let’s Connect
 If you're a hiring manager, fellow analyst, or SQL enthusiast, feel free to connect and ⭐ this repo!
-Have feedback? Open an issue or message me on LinkedIn!
+Have feedback? Open an issue or message me on LinkedIn! 
+LinkedIn - https://www.linkedin.com/in/rashigupta111/
