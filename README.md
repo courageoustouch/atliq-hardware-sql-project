@@ -126,7 +126,7 @@ Where applicable, SQL outputs were cross-validated using **Excel pivot tables an
 
 ## 🚀 How to Use This Project
 
-1. **Clone the Repository**
+1. Clone the Repository
    ```bash
    git clone https://github.com/yourusername/atliq-sql-project.git
 
