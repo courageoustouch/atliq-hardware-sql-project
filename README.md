@@ -58,14 +58,17 @@ Atliq-Hardware-SQL-Project/
 └── Task8_Forecast_Accuracy/
  ```</code></pre>
 
-> 🔍 **Each Task folder contains following subfolders: 
+> 🔍 **Each Task folder contains following subfolders:
 >  Main JIRA Task - This folder contains the primary solution for the main JIRA task assigned by the business team. The folder name includes the suffix "- n", where n corresponds to the JIRA task number.
->  Business Insights [n] - The number of these folders within the task folders can be between 1 to 3. These addresses the dentified hypothetical, high-impact questions that might be underlying the main JIRA task, hence generating actionable insights for the business team. 
-> - Optional: `Business Insights Validations/` with Excel validations
+> Business Insights [n] - The number of these folders within the task folders can be between 1 to 3. These addresses the dentified hypothetical, high-impact questions that might be underlying the main JIRA task, hence generating actionable insights for the business team.
+> Optional: `Business Insights Validations/` with Excel validations
+
 
 Within these subfolders, you will find below files - 
-> - `SQL_Scripts/` with clean, commented SQL  
-> - `Report/` with deliverable CSV/Excel output  
+> - `SQL_Scripts/` with clean, commented SQL
+
+> - `Report/` with deliverable CSV/Excel output
+
 > - `Results/` with screenshots of query output  
 
 ---
