@@ -80,10 +80,10 @@ Within these subfolders, you will find below files -
 
 1. 📦 Sales Report for Croma India (2021)  
 2. 📅 Monthly Sales Trends Analysis  
-3. 🏷️ Market Badging by Volume Thresholds  
+3. 🏷️ Market Badging by Volume Thresholds (Stored Proc) 
 4. 🥇 Top Markets, Products & Customers by Revenue  
-5. 🌍 Market Contribution to Global Sales (Bar Chart)  
-6. 🧭 Customer Net Sales by Region (Pie Charts)  
+5. 🌍 Top Customers' Market Contribution to Global Sales (Bar Chart)  
+6. 🧭 Top Customers' Contribution to Regional Net Sales (Pie Charts)  
 7. 🎯 Top N Products in Each Region by Qty  
 8. 🔮 Forecast Accuracy per Customer (Stored Proc)
 
