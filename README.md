@@ -134,6 +134,7 @@ Where applicable, SQL outputs were cross-validated using **Excel pivot tables an
 
 4. Validation files for deeper checks
 
+
 ✍️ Author
 Rashi Gupta – Data Analyst | SQL | Excel | Power BI | Python
 LinkedIn - https://www.linkedin.com/in/rashigupta111/
