@@ -34,6 +34,7 @@ Transform raw transactional data into **actionable insights** that drive **data-
 
 ## 📁 Project Structure
 
+<pre lang="markdown"><code>```
 Atliq-Hardware-SQL-Project/
 │
 ├── README.md
@@ -55,7 +56,7 @@ Atliq-Hardware-SQL-Project/
 ├── ...
 │
 └── Task8_Forecast_Accuracy/
-
+ ```</code></pre>
 
 > 🔍 **Each Task folder contains following subfolders: 
 >  Main JIRA Task - This folder contains the primary solution for the main JIRA task assigned by the business team. The folder name includes the suffix "- n", where n corresponds to the JIRA task number.
